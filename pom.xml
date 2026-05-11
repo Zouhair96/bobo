@@ -1,18 +1,12 @@
-<?xml version="1.0" eing="UTF-8"?>
-<project xmlns="http://mavenche.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apachePOM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVers
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
   <groupId>com.opspilot</groupId>
-  <artid>demo-service</artifac
+  <artifactId>demo-service</artifactId>
   <version>1.0.0</version>
-  <prties>
-    <java.version>21</java.vers
+  <properties>
+    <java.version>21</java.version>
     <server.port>8080</server.port>
   </properties>
-</projed
-      d
-      d
-      d
-      d
-
-      
+</project>

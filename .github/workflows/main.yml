@@ -29,8 +29,7 @@ jobs:
       - name: 🧪 Run Tests
         run: mvn test
 
-      - name: Build
-        run: mvn package -Pprofile-inexistant
+ 
 
       
       - name: 📦 Upload Artifact

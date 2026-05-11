@@ -1,6 +1,7 @@
- com.opspilot
+package com.opspilot;
 
-pubc class App {
-    public static  main(String[] args) {
-        System.out.pritln("Hello from demo-service!");
-    };
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Hello from demo-service!");
+    }
+}

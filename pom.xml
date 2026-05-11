@@ -10,10 +10,5 @@
     <server.port>8080</server.port>
   </properties>
   <dependencies>
-  <dependency>
-    <groupId>com.nonexistent</groupId>
-    <artifactId>phantom-library</artifactId>
-    <version>9.9.9</version>
-  </dependency>
-</dependencies>
+  </dependencies>
 </project>

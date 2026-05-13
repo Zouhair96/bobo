@@ -6,12 +6,7 @@
   <artifactId>demo-service</artifactId>
   <version>1.0.0</version>
   <properties>
-    <java.version>21</java.vers
+    <java.version>21</java.version>
     <server.port>8080</server.port>
   </properties>
-</proj
-  f
-  f
-  f
-  f
-  
+</project>
